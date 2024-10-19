@@ -136,6 +136,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [AWS VPC Documentation](https://docs.aws.amazon.com/vpc/)
 - [AWS Auto Scaling Documentation](https://docs.aws.amazon.com/autoscaling/)
 - [WordPress Installation Guide](https://wordpress.org/support/article/how-to-install-wordpress/)
+- https://docs.aws.amazon.com/linux/al2/ug/hosting-wordpress.html
+- https://wordpress.org/about/requirements/
   
 ---
 
