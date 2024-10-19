@@ -61,8 +61,8 @@ Follow these steps to deploy your WordPress website on AWS:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-repo/wordpress-aws-deployment.git
-cd wordpress-aws-deployment
+git clone https://github.com/inyeza86/Host-WordPress-Website-On-AWS.git
+cd Host-WordPress-Website-On-AWS
 ```
 
 ### Step 2: Set Up AWS Infrastructure
